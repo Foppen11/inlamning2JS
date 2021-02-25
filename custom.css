@@ -1,0 +1,16 @@
+.btn-finish {
+    background-color: #0eaa0e;
+    color: #ffffff;
+    border: none;
+}
+
+.btn-finish:hover, 
+.btn-finish:focus{
+    background-position: 0 -15px;
+    background-color: #0c7e0c;
+    border: none;
+}
+
+.invalid-feedback{
+    color: #fff;
+}
